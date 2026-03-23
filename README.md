@@ -2,20 +2,7 @@
 
 A full-stack user authentication web application built with **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**. Features a clean dark-themed UI with secure BCrypt password hashing.
 
----
 
-## 📸 Screenshots
-
-### Sign In
-![Login Page](screenshots/login.png)
-
-### Sign Up
-![SignUp Page](screenshots/signup.png)
-
-### Dashboard
-![Dashboard Page](screenshots/dashboard.png)
-
----
 
 ## ✨ Features
 
